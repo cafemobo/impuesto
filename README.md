@@ -14,7 +14,7 @@ total
 
 Para consultar mediante postman o curl:
 
-curl -X GET "https://lrdn4dblvb.execute-api.us-west-1.amazonaws.com/prod/impuesto"
+curl -X GET "https://lrdn4dblvb.execute-api.us-west-1.amazonaws.com/prod/impuestos"
 
 La compra y calculo acumulado de impuestos se registra automaticamente por cada compra resgistrada en facturación:
 
